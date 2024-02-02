@@ -1,1 +1,2 @@
-the git directory readme
+The git directory readme
+updated
